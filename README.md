@@ -1,16 +1,16 @@
-### Hi there 👋
+### Is this thing on?👋
 
 <!--
-**Syelding/Syelding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*My name is Sheila and I am a studying Data Analyst. 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ...Data Analysis using Python, familiarizing myself with Power Bi, and overall python programming
+- 🌱 I’m currently learning ... How to efficiently use Pythons statitistical analysis and visualizations using numpy, matplotlib, and seaborn
+- 👯 I’m looking to collaborate on ...Future python projects in relation to Data Analytics and also video game development
+- 🤔 I’m looking for help with ... Internships, open source projects, or a full time role as a Data Analyst
+- 💬 Ask me about ... Why I love science
+- 📫 How to reach me: ... View my bio for links to Twitter and Linkedin
+- 😄 Pronouns: ... No preference
+- ⚡ Fun fact: ... I like liftinig weights!
 -->
