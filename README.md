@@ -1,16 +1,13 @@
-### Is this thing on?👋
+Hi 👋 My name is Sheila Yelding
+===============================
 
-<!--
-*My name is Sheila and I am a studying Data Analyst. 
+Data Analyst
+------------
 
-Here are some ideas to get you started:
+I've been learning and practicing Data Analytics for over a year. I absolutely love Python due to its versatility and it's straightforward syntax. I have performed Exploratory Data Analysis and Data Visualizations using Python and am interested in using it for Machine Learning. I am highly skilled at using Excel for Data cleaning and also have experience using Tableau for data visualizations. Last, I am also experienced with using the SQL language as well. I am eager to learn, curious, and also optimistic.
 
-- 🔭 I’m currently working on ...Data Analysis using Python, familiarizing myself with Power Bi, and overall python programming
-- 🌱 I’m currently learning ... How to efficiently use Pythons statitistical analysis and visualizations using numpy, matplotlib, and seaborn
-- 👯 I’m looking to collaborate on ...Future python projects in relation to Data Analytics and also video game development
-- 🤔 I’m looking for help with ... Internships, open source projects, or a full time role as a Data Analyst
-- 💬 Ask me about ... Why I love science
-- 📫 How to reach me: ... View my bio for links to Twitter and Linkedin
-- 😄 Pronouns: ... No preference
-- ⚡ Fun fact: ... I like liftinig weights!
--->
+*   🌍  I'm based in Alabama
+*   ✉️  You can contact me at [sgshela@gmail.com](mailto:sgshela@gmail.com)
+*   🧠  I'm learning Using Python in conjunction with Excel
+*   🤝  I'm open to collaborating on Anything Data Analytics or Data Science related
+*   ⚡  Nature, philosophy, and fitness bring me joy
